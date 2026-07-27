@@ -1,2 +1,16 @@
-# Davinci_Resolve_DVCC_Recovery
-Davinci Resolve DVCC Recovery Tool
+# Davinci Resolve DVCC Recovery Tool by SKETCHY.DOG LLC
+This script will strip and reformat all .dvcc files it finds in any folder you point it at.
+
+REQUIREMENTS:
+- Python 3
+- ffmpeg
+- VLC
+- Some knowledge about videos (if you want to run the RAW Recovery).
+
+I'm releasing this tool I made for myself because it looks like a lot of other people have been wanting to recover their stuff from Davinci Resolve
+Temp folders, only to be told "it's impossible" and other nonsense like that. It took like 2 hours to finish this, so just a reminder out there to everyone:
+Don't let anyone tell you that you can't do something, go out and get it for yourself if nobody will help you. xoxo 
+
+-notdan
+
+SKETCHY.DOG LLC
