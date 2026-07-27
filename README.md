@@ -1,5 +1,5 @@
 # Davinci Resolve DVCC Recovery Tool by SKETCHY.DOG LLC
-This script will strip and reformat all .dvcc files it finds in any folder you point it at.
+This script will strip, reformat, then stitch together any .dvcc files it finds in whatever folder you point it at.
 
 REQUIREMENTS:
 - Python 3
